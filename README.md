@@ -11,7 +11,7 @@ And then just start the local React server by typing:
 
 ### `npm start`
 
-![most-watched-games](https://flic.kr/p/2gVQQBd)
+![most-watched-games](screenshots/pro-dashboard-1.PNG)
 
 ## Technology Stack
 In this project I have used ReactJS as the main front end framework, Axios for doing all the API calls and Material-UI and Bootstrap for styling the app.
