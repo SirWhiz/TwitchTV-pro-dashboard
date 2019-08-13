@@ -35,7 +35,7 @@ class StreamCard extends React.Component {
                     </CardActionArea>
                     <CardActions>
                         <Button size="small" color="primary">
-                        <a className="link" className="card-link" href={"https://twitch.tv/" + stream.user_name} target="_blank">
+                        <a className="link" className="card-link" rel="noopener noreferrer" href={"https://twitch.tv/" + stream.user_name} target="_blank" >
                             Watch {stream.user_name}'s channel
                         </a>
                         </Button>

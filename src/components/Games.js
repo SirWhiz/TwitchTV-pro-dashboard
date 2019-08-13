@@ -22,7 +22,7 @@ function Games(){
     }, []);
 
     //If the data has not yet been fetched, we show a loading spinner
-    if(games.length == 0){
+    if(games.length === 0){
         return (
             <div>
                 <h1 className="games-header">Most watched games right now</h1>
