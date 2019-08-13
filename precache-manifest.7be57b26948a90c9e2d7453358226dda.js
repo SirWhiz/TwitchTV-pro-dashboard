@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdcccf1e13bb4a633e98a79914fb910f",
+    "revision": "07a8527d8b8fe3acf2f1e831898787e3",
     "url": "/TwitchTV-pro-dashboard/index.html"
   },
   {
-    "revision": "9f941e8ef59658f3bafe",
+    "revision": "b5c39c13268fe27a886a",
     "url": "/TwitchTV-pro-dashboard/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "44011205fe63784053b6",
+    "revision": "a727bb395f5651161ef0",
     "url": "/TwitchTV-pro-dashboard/static/css/main.e5aa0c1e.chunk.css"
   },
   {
-    "revision": "9f941e8ef59658f3bafe",
-    "url": "/TwitchTV-pro-dashboard/static/js/2.44362449.chunk.js"
+    "revision": "b5c39c13268fe27a886a",
+    "url": "/TwitchTV-pro-dashboard/static/js/2.cd5dd139.chunk.js"
   },
   {
-    "revision": "44011205fe63784053b6",
-    "url": "/TwitchTV-pro-dashboard/static/js/main.054948bb.chunk.js"
+    "revision": "a727bb395f5651161ef0",
+    "url": "/TwitchTV-pro-dashboard/static/js/main.dbbb9360.chunk.js"
   },
   {
     "revision": "c7e8032ba46a24eaf6e6",
