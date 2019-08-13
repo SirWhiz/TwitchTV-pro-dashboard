@@ -13,9 +13,8 @@ And then just start the local React server by typing:
 
 ## Screenshots:
 
-![most-watched-games](screenshots/pro-dashboard-1.PNG)
-![most-watched-streamers](screenshots/pro-dashboard-2.PNG)
-![most-watched-streamers-of-one-game](screenshots/pro-dashboard-3.PNG)
+![most-watched-games](screenshots/pro-dashboard-1.png)
+![most-watched-streams](screenshots/pro-dashboard-2.png)
 
 ## Technology Stack
 In this project I have used ReactJS as the main front end framework, Axios for doing all the API calls and Material-UI and Bootstrap for styling the app.
