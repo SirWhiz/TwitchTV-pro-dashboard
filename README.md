@@ -1,6 +1,10 @@
 # TwitchTV Pro Dashboard
 Pro Dashboard is a ReactJS web appplication that shows you the most viewed games and live streams on Twitch.tv
 
+## Live demo:
+
+[Click here](https://sirwhiz.github.io/TwitchTV-pro-dashboard/#/) to see a live demo of the project
+
 ## Installation
 
 Download the code from the repository, install it with npm by running the following command:
