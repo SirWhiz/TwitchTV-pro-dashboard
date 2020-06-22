@@ -1,8 +1,11 @@
 import axios from 'axios';
 
+import { clientId } from './constants';
+
 let api = axios.create({
     headers: {
-        'Client-ID': 'd2f0jy0xnzkliwtggzo5u9nr4p3s5m'
+        'Client-ID': clientId,
+        'Authorization': localStorage.getItem('accessToken')
     }
 });
 

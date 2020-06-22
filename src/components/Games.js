@@ -3,11 +3,14 @@ import GameCard from './GameCard';
 import api from '../api';
 import CircularProgress from '@material-ui/core/CircularProgress';
 
+import { fetchAccessToken } from '../constants';
+
 function Games(){
     const [games, setGames] = useState([]);
 
     //Similar to componentDidMount but using React Hooks
     useEffect(() => {
+        fetchAccessToken();
         const fetchData = async () => {
             const result = await api.get('https://api.twitch.tv/helix/games/top');
             let dataArray = result.data.data;
