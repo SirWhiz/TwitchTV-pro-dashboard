@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TwitchTV-pro-dashboard/static/css/main.e5aa0c1e.chunk.css",
-    "main.js": "/TwitchTV-pro-dashboard/static/js/main.dbbb9360.chunk.js",
-    "main.js.map": "/TwitchTV-pro-dashboard/static/js/main.dbbb9360.chunk.js.map",
+    "main.css": "/TwitchTV-pro-dashboard/static/css/main.67516bcf.chunk.css",
+    "main.js": "/TwitchTV-pro-dashboard/static/js/main.23ae56ff.chunk.js",
+    "main.js.map": "/TwitchTV-pro-dashboard/static/js/main.23ae56ff.chunk.js.map",
     "runtime~main.js": "/TwitchTV-pro-dashboard/static/js/runtime~main.dfca5826.js",
     "runtime~main.js.map": "/TwitchTV-pro-dashboard/static/js/runtime~main.dfca5826.js.map",
     "static/css/2.266e55a5.chunk.css": "/TwitchTV-pro-dashboard/static/css/2.266e55a5.chunk.css",
-    "static/js/2.cd5dd139.chunk.js": "/TwitchTV-pro-dashboard/static/js/2.cd5dd139.chunk.js",
-    "static/js/2.cd5dd139.chunk.js.map": "/TwitchTV-pro-dashboard/static/js/2.cd5dd139.chunk.js.map",
+    "static/js/2.6f563c2b.chunk.js": "/TwitchTV-pro-dashboard/static/js/2.6f563c2b.chunk.js",
+    "static/js/2.6f563c2b.chunk.js.map": "/TwitchTV-pro-dashboard/static/js/2.6f563c2b.chunk.js.map",
     "index.html": "/TwitchTV-pro-dashboard/index.html",
-    "precache-manifest.7be57b26948a90c9e2d7453358226dda.js": "/TwitchTV-pro-dashboard/precache-manifest.7be57b26948a90c9e2d7453358226dda.js",
+    "precache-manifest.383890607ed045a5013b702ae74cfaaa.js": "/TwitchTV-pro-dashboard/precache-manifest.383890607ed045a5013b702ae74cfaaa.js",
     "service-worker.js": "/TwitchTV-pro-dashboard/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/TwitchTV-pro-dashboard/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.e5aa0c1e.chunk.css.map": "/TwitchTV-pro-dashboard/static/css/main.e5aa0c1e.chunk.css.map"
+    "static/css/main.67516bcf.chunk.css.map": "/TwitchTV-pro-dashboard/static/css/main.67516bcf.chunk.css.map"
   }
 }
